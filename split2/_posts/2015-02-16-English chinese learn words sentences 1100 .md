@@ -17,3 +17,6 @@ How to learn Chinese words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split2/_posts/2014-10-02-English chinese learn words sentences 1237 .md%})
+ 
